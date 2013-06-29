@@ -1,0 +1,16 @@
+C:\Users\Sadek\Documents\Visual Studio 2008\Projects\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\Sadek\Documents\Visual Studio 2008\Projects\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\Sadek\Documents\Visual Studio 2008\Projects\lab6\lab6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sadek\Documents\Visual Studio 2008\Projects\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Sadek\Documents\Visual Studio 2008\Projects\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Sadek\Documents\Visual Studio 2008\Projects\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+C:\Users\Sadek\Documents\Visual Studio 2008\Projects\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\Sadek\Documents\Visual Studio 2008\Projects\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\Sadek\Dropbox\csc_330\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\Sadek\Dropbox\csc_330\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\Sadek\Dropbox\csc_330\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\Sadek\Dropbox\csc_330\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\Sadek\Dropbox\csc_330\lab6\lab6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sadek\Dropbox\csc_330\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Sadek\Dropbox\csc_330\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Sadek\Dropbox\csc_330\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
